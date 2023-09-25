@@ -1,0 +1,21 @@
+
+.car-card{
+    width: 100%;
+    max-width: 746px;
+
+    border: 1px solid var(--color-border-card);
+    border-radius: 10px;
+}
+
+.car-image{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.car-details p{
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,25 @@
+:root {
+  /*Header*/
+  --color-bg-header: #3C9AF0;
+  --color-font-header: #fff;
+
+  /*Section card*/
+  --color-border-card: #3C9AF0;
+
+  /*Section Coments*/
+  --color-bg-coments: #C8C8C8;
+  --color-bg-cards: #fff;
+  --color-border-coments: #3C9AF0;
+  --color-font-coments: #3C9AF0;
+
+  /*footer*/
+  --color-bg-footer: #C8C8C8;
+  --color-font-footer: #fff;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}

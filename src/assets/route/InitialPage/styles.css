@@ -1,0 +1,44 @@
+.card-details {
+    max-width: 746px;
+    padding: 20px;
+    margin: 0 auto;
+
+}
+
+.card-car {
+    display: grid;
+    grid-gap: 20px;
+}
+
+.cards-avaliations{
+    background-color: var(--color-bg-footer);
+}
+
+.card-validation{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.avaliation-title{
+    margin: 0 auto;
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+.avaliation-title h1{
+    font-size: 20px;
+}
+
+.footer-page{
+    background-color: var(--color-bg-header) ;
+}
+
+.rodape{
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 960px;
+    max-height: 120px;
+}
+
